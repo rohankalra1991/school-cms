@@ -5,5 +5,6 @@ target
 *.iml
 *.log
 gradlew*
-build/
+build/classes
+build/resources
 gradle/
